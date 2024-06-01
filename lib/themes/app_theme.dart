@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 
 class AppTheme{
-  static const Color primary = Colors.indigo;
+  static const Color primary = Color.fromARGB(210, 156, 9, 137);
   static final ThemeData odenfisTheme = ThemeData(
     primaryColor: primary,
     appBarTheme: const AppBarTheme(
